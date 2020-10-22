@@ -6,7 +6,7 @@ Countries clusters is commonly used by international institutions to group count
 ## 2. What does it do?
 The code to run the file can be found in `CountryClusteringAnalysisv2.ipynb`. The code outputs two images which, by default, when run show up in the `images\` subfolder. The data used to create this analysis can be found in the `data_and_metadata/WDIData_2010_onwards.csv`. This is the same file the can be found on the World Bank website; just filtered for datapoints from 2010 onwards.  
 
-## 3. How do run the code?
+## 3. How do I run the code?
 The Python code (`CountryClusteringAnalysisv2.ipynb`) is in the form of a Jupyter Notebook. If you download the code and the data (`data_and_metadata/WDIData_2010_onwards.csv`) and run it locally; it should run and produce the two images as outputs. Due to missing values, these needed to be filled in and certain indicators and countries were removed. These were "subjective" decisions. Please feel free to deal with missing values as you see fit and see if your results differ from mine.
 
 ## 4. What are the results?
